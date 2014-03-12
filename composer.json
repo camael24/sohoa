@@ -1,7 +1,8 @@
 {
     "name": "sohoa/sohoa",
     "require": {
-        "sohoa/framework": "dev-master"
+        "sohoa/framework": "dev-master",
+        "hoa/mime": "dev-master"
     },
     "config": {
         "bin-dir": "Binaries"
